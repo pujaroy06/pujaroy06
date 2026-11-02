@@ -1,19 +1,79 @@
-<h1 align="center">Hi 👋, I'm PUJA ROY</h1>
-<h3 align="center">A passionate frontend Aspiring Web Developer | CSE Student | Exploring Cyber Security & Data Sciencedeveloper from India</h3>
+# Hi 👋, I'm Puja Roy
 
-- 🔭 I’m currently working on [adaptive-merge-sort](https://github.com/pujaroy06/adaptive-merge-sort)
+### 💻 Aspiring Web Developer | B.Tech CSE Student | Exploring Cyber Security & Data Science
 
-- 🌱 I’m currently learning **- Python - Web Development (HTML, CSS) - MySQL & DBMS - Data Structures & Algorithms (DSA) - Cyber Security Fundamentals - Git & GitHub - Artificial Intelligence (AI)**
+I'm a Computer Science student passionate about programming, web development, and exploring new technologies. I enjoy learning by building projects and improving my problem-solving skills.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pujaroy06](https://github.com/pujaroy06)
+- 🔭 Currently working on **[Adaptive Merge Sort](https://github.com/pujaroy06/adaptive-merge-sort)**
+- 🌱 Currently learning **Python, HTML, CSS, MySQL, DSA, Cyber Security & AI**
+- 👨‍💻 Explore my projects: [GitHub Repositories](https://github.com/pujaroy06?tab=repositories)
+- 💬 Ask me about **Python, DBMS, Web Development and Cyber Security**
+- ⚡ Fun fact: **I believe every error message is another learning opportunity! 💻🚀**
 
-- 💬 Ask me about **Python Programming Cyber Security Database Management Systems (DBMS) Data Structures & Algorithms Student Projects & Learning Experiences Technology and Innovation**
+---
 
-- ⚡ Fun fact **I believe every error message is another learning opportunity! 💻🚀**
+## 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/pujaroy06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pujaroy06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujaroy06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pujaroy06&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pujaroy06&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## ⭐ GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpujaroy06&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/pujaroy06/adaptive-merge-sort?style=for-the-badge&logo=github&label=Featured%20Project%20Stars" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Adaptive Merge Sort
+An implementation of Adaptive Merge Sort exploring sorting algorithms and optimization techniques.
+
+- **Technology:** Programming / Data Structures & Algorithms
+- **Repository:** [View Project](https://github.com/pujaroy06/adaptive-merge-sort)
+
+---
+
+<p align="center">
+  <i>✨ Learning, Building, Improving — One Commit at a Time! ✨</i>
+</p>
